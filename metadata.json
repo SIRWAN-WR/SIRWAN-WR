@@ -1,0 +1,6 @@
+{
+  "name": "سيروان | SIRWAN - صياغة وتطوير المحتوى للأفراد والمنشآت",
+  "description": "منصة سيروان SIRWAN الاحترافية لخدمات كتابة المحتوى والحلول التحريرية الشاملة للأفراد والمنشآت مع حجز المواعيد ومساعد الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
